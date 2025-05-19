@@ -16,7 +16,7 @@ A simple Flutter app that suggests random English word pairs and lets users favo
 
 * Flutter
 * Dart
-* [english\_words](https://pub.dev/packages/english_words)
+* [english\_words](https://pub.dev/packages/english_words) 
 * [provider](https://pub.dev/packages/provider)
 
 ## Getting Started
