@@ -1,6 +1,6 @@
 # Namer App
 
-A simple Flutter app that suggests random English word pairs and lets users favorite the ones they like. Built using `provider` for state management and supports responsive layouts.
+ A simple Flutter app that suggests random English word pairs and lets users favorite the ones they like. Built using `provider` for state management and supports responsive layouts.
 
 ## Features
 
